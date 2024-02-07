@@ -1,2 +1,1 @@
-# Calculator
-A Calculator GUI
+Designed and implemented a Java Swing calculator application capable of performing basic arithmetic operations. The calculator features a user-friendly graphical interface with functionalities including addition, subtraction, multiplication, and division. Incorporated error handling to handle invalid inputs and division by zero scenarios. Implemented additional features such as backspace functionality for correcting input mistakes, percentage calculation, and square root computation. Utilized event-driven programming to capture user interactions and update the calculator display accordingly.

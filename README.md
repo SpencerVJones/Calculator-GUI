@@ -1,4 +1,8 @@
 # Java Calculator GUI
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Calculator-GUI)
+</div>
 This project is a Java-based calculator with a graphical user interface (GUI) designed to perform arithmetic operations like addition, subtraction, multiplication, and division. It also supports additional functionalities such as calculating percentages, square roots, and handling complex expressions with nested parentheses.
 
 ## Features
